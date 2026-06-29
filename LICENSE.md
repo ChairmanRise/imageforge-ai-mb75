@@ -1,4 +1,4 @@
-# 
+# Smart ImageForge toolkit. Download and install with graphical-interface and offline-mode — fast, secure, and easy to use.
 
 
 
